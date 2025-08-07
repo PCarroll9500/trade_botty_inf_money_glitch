@@ -1,0 +1,27 @@
+06AUG2025
+
+10 seperate agents, no further analysis
+
+PHUN 	Down 	3.5%
+CVNA 	up	1.08%
+CGTX	down 	.42%
+BLBX	down	3.28%
+RIGL	up	23.06%
+Not an actual stock.
+Not an actual stock.
+Not an actual stock.
+Not an actual stock.
+Not an actual stock.
+
+07AUG2025 @ 7:58 AM
+10 agents, no duplicates, all real stocks Ran 07AUG2025
+OUST
+SPCE
+HCWB
+NVDA
+LCID
+FUBO
+GBTC
+EVLO
+MVIS
+Ran out of tries
