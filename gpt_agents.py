@@ -1,7 +1,7 @@
 from concurrent.futures import ThreadPoolExecutor
 from openai import OpenAI
 from datetime import datetime
-from get_finance import is_valid_ticker
+from stock_data_fetcher import is_valid_ticker
 import os
 import re
 

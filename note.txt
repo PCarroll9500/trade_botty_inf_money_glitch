@@ -15,13 +15,27 @@ Not an actual stock.
 
 07AUG2025 @ 7:58 AM
 10 agents, no duplicates, all real stocks Ran 07AUG2025
-OUST
-SPCE
-HCWB
-NVDA
-LCID
-FUBO
-GBTC
-EVLO
-MVIS
+approx 1.50\%
+OUST    up  13%
+SPCE    down    9%
+HCWB    dowm    2%
+NVDA    up  1%
+LCID    -   none
+FUBO    up  +4.19%
+GBTC    up  1.95%
+MVIS    up  1.36%
+Not an actual stock.
 Ran out of tries
+
+0752 08AUG2025
+
+FCEL
+HUMN
+TGTX
+NVDA
+PRQR
+APT
+UVXY
+TLRY
+AFRM
+CVNA
